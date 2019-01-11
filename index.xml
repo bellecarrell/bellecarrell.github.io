@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annabelle Carrell</title>
+    <link>https://bellecarrell.github.io/</link>
+    <description>Recent content on Annabelle Carrell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Jan 2019 10:52:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://bellecarrell.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The What and Why of My Blog</title>
+      <link>https://bellecarrell.github.io/blog/the-why-and-what-of-my-blog/</link>
+      <pubDate>Thu, 10 Jan 2019 10:52:00 -0500</pubDate>
+      
+      <guid>https://bellecarrell.github.io/blog/the-why-and-what-of-my-blog/</guid>
+      <description>The What Like there are many ways up a mountain, there are many ways to get into research. Becoming a balanced researcher, however, requires proficiency in many skills, some of which may not have been necessary in one&amp;rsquo;s previous work. Academic writing is an essential skill for research. I went to engineering school and then industry, neither of which involved writing research articles (or much writing in general). In starting to read more research papers, I have noticed both the form and substance of top-tier conference and journal articles are more polished than lower-tier and workshop papers.</description>
+    </item>
+    
+    <item>
+      <title>Misc</title>
+      <link>https://bellecarrell.github.io/misc/</link>
+      <pubDate>Sat, 29 Dec 2018 15:30:40 -0500</pubDate>
+      
+      <guid>https://bellecarrell.github.io/misc/</guid>
+      <description>A few of my (current) favorite things I have few lifetime favorites, but I always have a lot of recent favorites. Here are some:
+ book: To the Lighthouse (Virginia Woolf had an amazing understanding of the diversity of human perspective)
+ song: thank u, next (I love Ari)
+ movie: Suspiria (2018) (kidding, couldn&amp;rsquo;t even watch the whole thing)
+ exercise: Bulgarian Split Squat (great for someone like me who has underdeveloped hamstrings)</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://bellecarrell.github.io/about/</link>
+      <pubDate>Fri, 28 Dec 2018 15:12:13 -0500</pubDate>
+      
+      <guid>https://bellecarrell.github.io/about/</guid>
+      <description>Welcome web traveler! I&amp;rsquo;m a master&amp;rsquo;s student at Johns Hopkins University in the Center for Language and Speech Processing and the Human Language Technology Center of Excellence (HLTCOE). I am generously supported through a research assistantship by my advisor, Ben Van Durme.
+I am interested in machine learning and natural language processing.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://bellecarrell.github.io/publications/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://bellecarrell.github.io/publications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
