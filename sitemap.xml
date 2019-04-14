@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bellecarrell.github.io/</loc>
+    <lastmod>2019-01-10T10:52:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bellecarrell.github.io/blog/</loc>
+    <lastmod>2019-01-10T10:52:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bellecarrell.github.io/blog/the-why-and-what-of-my-blog/</loc>
     <lastmod>2019-01-10T10:52:00-05:00</lastmod>
   </url>
@@ -18,24 +30,19 @@
   </url>
   
   <url>
+    <loc>https://bellecarrell.github.io/categories/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bellecarrell.github.io/publications/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bellecarrell.github.io/</loc>
-    <lastmod>2019-01-10T10:52:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bellecarrell.github.io/blog/</loc>
-    <lastmod>2019-01-10T10:52:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bellecarrell.github.io/categories/</loc>
+    <loc>https://bellecarrell.github.io/tags/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,12 +54,6 @@
   
   <url>
     <loc>https://bellecarrell.github.io/tags/publications/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bellecarrell.github.io/tags/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
